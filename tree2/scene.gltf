@@ -1,0 +1,407 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2535,
+      "max": [
+        3.8067312240600586,
+        17.122270584106445,
+        5.084721088409424
+      ],
+      "min": [
+        -6.572420597076416,
+        -0.10263124108314514,
+        -5.75955867767334
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30420,
+      "componentType": 5126,
+      "count": 2535,
+      "max": [
+        0.9998487234115601,
+        0.9999579191207886,
+        0.9997668266296387
+      ],
+      "min": [
+        -0.9991203546524048,
+        -0.9973039627075195,
+        -0.9998321533203125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2535,
+      "max": [
+        0.9849750399589539,
+        0.985266387462616
+      ],
+      "min": [
+        0.014743788167834282,
+        0.014811426401138306
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20280,
+      "componentType": 5126,
+      "count": 2535,
+      "max": [
+        0.9849750399589539,
+        0.985266387462616
+      ],
+      "min": [
+        0.014743788167834282,
+        0.014811426401138306
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 8688,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60840,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        5.301869869232178,
+        0.33959007263183594,
+        6.013015270233154
+      ],
+      "min": [
+        -5.466381072998047,
+        -0.2705499231815338,
+        -6.01548433303833
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 62592,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.81374591588974,
+        0.9999152421951294,
+        0.8265496492385864
+      ],
+      "min": [
+        -0.8251702785491943,
+        -0.999915361404419,
+        -0.7999265789985657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 40560,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.9671884179115295,
+        0.9671884179115295
+      ],
+      "min": [
+        0.032811522483825684,
+        0.032811522483825684
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 41728,
+      "componentType": 5126,
+      "count": 146,
+      "max": [
+        0.9671884179115295,
+        0.9671884179115295
+      ],
+      "min": [
+        0.032811522483825684,
+        0.032811522483825684
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 34752,
+      "componentType": 5125,
+      "count": 768,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Clayton Creative (https://sketchfab.com/clayton_creative)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/stylized-tree-03-clean-d3af590a640b40ca98c2d669e83182e8",
+      "title": "Stylized Tree 03 Clean"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 37824,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 42896,
+      "byteOffset": 37824,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64344,
+      "byteOffset": 80720,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 145064,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/MergedBake_Bake1.001_baseColor.png"
+    },
+    {
+      "uri": "textures/MergedBake_Bake1.001_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Tree_03_Ground_Bake1_baked_baseColor.png"
+    },
+    {
+      "uri": "textures/Tree_03_Ground_Bake1_baked_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "MergedBake_Bake1.001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Tree_03_Ground_Bake1_baked",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "TreeBark_03_Clean_MergedBake_Bake1.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tree_03_Ground_Baked_Tree_03_Ground_Bake1_baked_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "ffaa11fc79074a4297dca012c19fa333.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.9999999999999,
+        4.371138828673792e-06,
+        0.0,
+        0.0,
+        -4.371138828673792e-06,
+        99.9999999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "TreeBark_03_Clean"
+    },
+    {
+      "mesh": 0,
+      "name": "TreeBark_03_Clean_MergedBake_Bake1.001_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.19654488563537598,
+        -0.15461315214633942,
+        -0.22367283701896667,
+        1.0
+      ],
+      "name": "Tree_03_Ground_Baked"
+    },
+    {
+      "mesh": 1,
+      "name": "Tree_03_Ground_Baked_Tree_03_Ground_Bake1_baked_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

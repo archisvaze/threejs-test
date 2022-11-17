@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Tree 03 Clean
+* source:	https://sketchfab.com/3d-models/stylized-tree-03-clean-d3af590a640b40ca98c2d669e83182e8
+* author:	Clayton Creative (https://sketchfab.com/clayton_creative)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Tree 03 Clean" (https://sketchfab.com/3d-models/stylized-tree-03-clean-d3af590a640b40ca98c2d669e83182e8) by Clayton Creative (https://sketchfab.com/clayton_creative) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
